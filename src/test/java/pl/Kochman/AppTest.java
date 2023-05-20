@@ -1,4 +1,4 @@
-package pl.Kochman.productCatalog;
+package pl.Kochman;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
